@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Quote Generator
 
 A simple and elegant web application that provides users with a new, random quote and its author with a single click. This project is built using HTML, CSS, and vanilla JavaScript, demonstrating the power of modern web development for creating a clean and user-friendly experience.
@@ -20,3 +21,7 @@ This project uses the following free API to fetch quotes:
 
 `https://quotes-api-self.vercel.app/quote`
 
+=======
+# Web-Quote-Generator
+Web Quote Generator is a simple and interactive web application that displays random motivational quotes using API integration. Users can generate new quotes with a click, helping inspire positivity while demonstrating frontend development and asynchronous data fetching.
+>>>>>>> 4223adfbcd9d851a2bd62e9f0c019ef8195ddbb4
